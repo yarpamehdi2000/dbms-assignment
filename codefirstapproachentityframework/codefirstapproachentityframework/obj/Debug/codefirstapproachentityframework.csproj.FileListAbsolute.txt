@@ -1,0 +1,14 @@
+C:\Users\mehdi ali\Desktop\dbms assignment\codefirstapproachentityframework\codefirstapproachentityframework\bin\Debug\codefirstapproachentityframework.exe.config
+C:\Users\mehdi ali\Desktop\dbms assignment\codefirstapproachentityframework\codefirstapproachentityframework\bin\Debug\codefirstapproachentityframework.exe
+C:\Users\mehdi ali\Desktop\dbms assignment\codefirstapproachentityframework\codefirstapproachentityframework\bin\Debug\codefirstapproachentityframework.pdb
+C:\Users\mehdi ali\Desktop\dbms assignment\codefirstapproachentityframework\codefirstapproachentityframework\bin\Debug\EntityFramework.dll
+C:\Users\mehdi ali\Desktop\dbms assignment\codefirstapproachentityframework\codefirstapproachentityframework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mehdi ali\Desktop\dbms assignment\codefirstapproachentityframework\codefirstapproachentityframework\bin\Debug\EntityFramework.xml
+C:\Users\mehdi ali\Desktop\dbms assignment\codefirstapproachentityframework\codefirstapproachentityframework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mehdi ali\Desktop\dbms assignment\codefirstapproachentityframework\codefirstapproachentityframework\obj\Debug\codefirstapproachentityframework.csprojAssemblyReference.cache
+C:\Users\mehdi ali\Desktop\dbms assignment\codefirstapproachentityframework\codefirstapproachentityframework\obj\Debug\codefirstapproachentityframework.Form1.resources
+C:\Users\mehdi ali\Desktop\dbms assignment\codefirstapproachentityframework\codefirstapproachentityframework\obj\Debug\codefirstapproachentityframework.Properties.Resources.resources
+C:\Users\mehdi ali\Desktop\dbms assignment\codefirstapproachentityframework\codefirstapproachentityframework\obj\Debug\codefirstapproachentityframework.csproj.GenerateResource.cache
+C:\Users\mehdi ali\Desktop\dbms assignment\codefirstapproachentityframework\codefirstapproachentityframework\obj\Debug\codefirstapproachentityframework.csproj.CopyComplete
+C:\Users\mehdi ali\Desktop\dbms assignment\codefirstapproachentityframework\codefirstapproachentityframework\obj\Debug\codefirstapproachentityframework.exe
+C:\Users\mehdi ali\Desktop\dbms assignment\codefirstapproachentityframework\codefirstapproachentityframework\obj\Debug\codefirstapproachentityframework.pdb
